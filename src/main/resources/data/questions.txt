@@ -1,0 +1,5 @@
+1|Science|easy|What planet is known as the Red Planet?|Venus|Mars|Jupiter|Saturn|B
+2|Math|easy|What is 2 + 2?|3|4|5|6|B
+3|Geography|easy|Capital of Egypt?|Cairo|Giza|Alexandria|Luxor|A
+4|Science|medium|What gas do plants absorb?|Oxygen|Hydrogen|Carbon Dioxide|Nitrogen|C
+5|Math|hard|What is 12 * 8?|88|96|108|112|B

@@ -1,0 +1,6 @@
+minPlayers=1
+maxPlayers=4
+minTeamSize=1
+maxTeamSize=2
+questionDuration=15
+historyLimit=5
