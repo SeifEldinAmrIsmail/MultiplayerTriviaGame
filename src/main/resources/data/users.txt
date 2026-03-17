@@ -1,2 +1,4 @@
 Ali,ali,1234
 Mona,mona,pass
+Seif,Man4,1612
+moaz,3oza,1234
